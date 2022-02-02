@@ -1,3 +1,10 @@
+I have forked this repoand adjusted the files for the sake of building a COLRv0 format font. 
+Several of the svg files had to be adjusted for nanoemoji to successfully build the font.
+
+The original README is below.
+
+---
+
 # Emojione
 
 Version 2.x of Emojione is no longer supported by [Ranks.com](https://emojione.com). 
